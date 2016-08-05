@@ -1,0 +1,24 @@
+_repo: Unitarianism-in-America--A-History-of-its-Origin-and-Development_8605
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Cooke, George Willis
+    birthdate: 1848
+    deathdate: 1923
+    gutenberg_agent_id: '2826'
+    url: http://www.gutenberg.org/2009/agents/2826
+description: ''
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8605'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Unitarianism -- United States'
+- GITenberg
+title: 'Unitarianism in America: A History of its Origin and Development'
+url: http://www.gutenberg.org/ebooks/8605
